@@ -125,5 +125,7 @@ h2 {
   vertical-align: middle;
   padding: 0 20px;
 }
-
+.feature-pir {
+  padding-top: 65px
+  ackground-image: url("img/pir.svg")
 
